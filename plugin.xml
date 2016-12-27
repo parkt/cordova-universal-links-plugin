@@ -14,8 +14,8 @@
   <issue>https://github.com/nordnet/cordova-universal-links-plugin/issues</issue>
 
   <engines>
-    <engine name="cordova-ios" version=">=3.8"></engine>
-    <engine name="cordova-android" version=">=4"></engine>
+    <engine name="cordova-ios" version=">=3.5"></engine>
+    <engine name="cordova-android" version=">=3.5"></engine>
   </engines>
 
 <!-- JavaScrip Library Sources -->
